@@ -7,4 +7,4 @@ __These Projects are:__
 - A program that computes __Polynomial Arithmetic__, it uses linked lists data structure and is implemented in Java with efficiency in mind as it uses singly-linked linear lists and heads. The program runs in O(n) time.
   - The project consists of the following: A Jave source code for the class Poly, and driver class.
 - An __Anagrams project__, one of my hardest projects that I have coded. It is a Java program that finds all sets of anagrams in a text file of English words. It uses binary search trees which makes it highly efficent as it runs in linear time. 
- - The project consists of the following: A Java source code for the classes AnagramTree and Anagrammer.
+  - The project consists of the following: A Java source code for the classes AnagramTree and Anagrammer.
